@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53105a0f-f979-4841-8e0e-176460044286" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../630-labs/src/Driver_lab2a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../630-labs/src/Driver_lab2b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../630-labs/src/StringConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab1/HelloWorld.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/ChildRunnable.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/ChildThread.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/ParentWithRunnable.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/ParentWithThread.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../679-project/src/assign2/Partition.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../679-project/src/assign2/PerfectDispatcher.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../679-project/src/assign2/PerfectWorker.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../679-project/src/assign2/Result.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../marist-mscs621-Bradley/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../marist-mscs621-Bradley/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../marist-mscs621-Bradley/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/TranslatorApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../marist-mscs621-Bradley/TranslatorApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/hello_world.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../marist-mscs621-Bradley/hello_world.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../marist-mscs621-Bradley/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/java/application/SpeechToSpeechTranslatorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/java/application/SpeechToSpeechTranslatorApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/java/application/rest/SimpleAudioPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/java/application/rest/TextToSpeechTranslator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/java/application/rest/TextTranslator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/java/application/rest/TranslatorController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/resources/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/resources/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/resources/public/speechToText.js" beforeDir="false" afterPath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/resources/public/speechToText.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/resources/public/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/resources/public/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/resources/templates/greeting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/resources/templates/recording.html" beforeDir="false" afterPath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/resources/templates/recording.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/resources/templates/redirectLanguageTo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/resources/templates/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/resources/templates/translateFrom.html" beforeDir="false" afterPath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/resources/templates/translateFrom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/resources/templates/translateTo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/resources/templates/translateTo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/resources/templates/voiceTo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../marist-mscs621-Bradley/src/main/resources/templates/voiceTo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myfirstapp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myfirstapp/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myfirstapp/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myfirstapp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myfirstapp/src/main/java/springBootTest/TestController.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="383344233">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="scala" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="Scala" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="scala" value="5451" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="5451" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab07/ParGLEstimator.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lab06/FuturesGLEstimator.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#210#251#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab05/GLEstimator.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/lab1/HelloWorld.scala" />
+        <option value="$PROJECT_DIR$/src/lab2/SeqMultAdder.scala" />
+        <option value="$PROJECT_DIR$/src/homework1/practice.scala" />
+        <option value="$PROJECT_DIR$/src/homework1/project/package.scala" />
+        <option value="$PROJECT_DIR$/src/lab3/ParentWithThread.scala" />
+        <option value="$PROJECT_DIR$/src/lab3/ChildThread.scala" />
+        <option value="$PROJECT_DIR$/src/lab3/ChildRunnable.scala" />
+        <option value="$PROJECT_DIR$/src/lab3/ParentWithRunnable.scala" />
+        <option value="$PROJECT_DIR$/src/lab05/package.scala" />
+        <option value="$PROJECT_DIR$/src/lab05/GLEstimator.scala" />
+        <option value="$PROJECT_DIR$/src/lab06/FuturesGLEstimator.scala" />
+        <option value="$PROJECT_DIR$/src/lab07/ParGLEstimator.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="942" />
+    <option name="width" value="455" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="679-labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="679-labs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="679-labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="679-labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="679-labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="679-labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="679-labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="679-labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="679-labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="679-labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="679-labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="679-labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="679-labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="679-labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="679-labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="679-labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab07" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="679-labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555034696027" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BradL\OneDrive\Documents\GitHub\679-labs\src\homework1\project" />
+      <recent name="C:\Users\BradL\OneDrive\Documents\GitHub\679-labs\src\homework1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ParGLEstimator">
+    <configuration name="FuturesGLEstimator" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lab06.FuturesGLEstimator" />
+      <module name="679-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GLEstimator" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lab05.GLEstimator" />
+      <module name="679-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParGLEstimator" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lab07.ParGLEstimator" />
+      <module name="679-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParentWithRunnable" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.ParentWithRunnable" />
+      <module name="679-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testMod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testMod" />
+      <module name="679-labs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ParentWithRunnable" />
+      <item itemvalue="Application.testMod" />
+      <item itemvalue="Application.GLEstimator" />
+      <item itemvalue="Application.FuturesGLEstimator" />
+      <item itemvalue="Application.ParGLEstimator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ParGLEstimator" />
+        <item itemvalue="Application.FuturesGLEstimator" />
+        <item itemvalue="Application.GLEstimator" />
+        <item itemvalue="Application.testMod" />
+        <item itemvalue="Application.ParentWithRunnable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53105a0f-f979-4841-8e0e-176460044286" name="Default Changelist" comment="" />
+      <created>1548375452735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548375452735</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="754" y="0" width="364" height="831" extended-state="1" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.72039473" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15177305" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5451937" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3328551" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32340425" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/lab2/package.scala" />
+    <entry file="file://$PROJECT_DIR$/src/homework1/practice.scala" />
+    <entry file="file://$PROJECT_DIR$/src/homework1/project/package.scala" />
+    <entry file="file://$PROJECT_DIR$/src/homework1/project/quote.scala" />
+    <entry file="file://$PROJECT_DIR$/src/testMod.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab2/SeqMultAdder.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab3/ChildThread.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab1/HelloWorld.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab3/ChildRunnable.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab3/ParentWithThread.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/scala/concurrent/Future.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="666" column="5" lean-forward="true" selection-start-line="666" selection-start-column="5" selection-end-line="666" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab05/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab3/ParentWithRunnable.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/scala/Function1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/scala/collection/TraversableOnce.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="157" column="6" selection-start-line="157" selection-start-column="6" selection-end-line="157" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07/ParGLEstimator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab05/GLEstimator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab06/FuturesGLEstimator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#210#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>679-labs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
